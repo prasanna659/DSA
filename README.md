@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prasanna659/DSA/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/prasanna659/DSA/tree/master/0027-remove-element) |
 | [1331-rank-transform-of-an-array](https://github.com/prasanna659/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prasanna659/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prasanna659/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -59,6 +60,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/prasanna659/DSA/tree/master/0027-remove-element) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prasanna659/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prasanna659/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
