@@ -1,0 +1,9 @@
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var uniqueXorTriplets = function(nums) {
+  const n = nums.length;    
+    return 1 << (32 - Math.clz32(n) - ((3 / (n + 1)) | 0));
+    
+};
