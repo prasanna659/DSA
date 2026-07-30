@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/prasanna659/DSA/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasanna659/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prasanna659/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prasanna659/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -89,6 +90,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/prasanna659/DSA/tree/master/0070-climbing-stairs) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/prasanna659/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prasanna659/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -175,4 +177,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prasanna659/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/prasanna659/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
