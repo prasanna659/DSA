@@ -29,6 +29,7 @@
 ## String
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/prasanna659/DSA/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prasanna659/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/prasanna659/DSA/tree/master/1768-merge-strings-alternately) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/prasanna659/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -125,6 +126,7 @@
 | [0027-remove-element](https://github.com/prasanna659/DSA/tree/master/0027-remove-element) |
 | [0142-linked-list-cycle-ii](https://github.com/prasanna659/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/prasanna659/DSA/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/prasanna659/DSA/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/prasanna659/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/prasanna659/DSA/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/prasanna659/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -204,6 +206,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/prasanna659/DSA/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/prasanna659/DSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prasanna659/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
@@ -221,6 +224,7 @@
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/prasanna659/DSA/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prasanna659/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
