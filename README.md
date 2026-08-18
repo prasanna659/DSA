@@ -58,6 +58,7 @@
 | [0238-product-of-array-except-self](https://github.com/prasanna659/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/prasanna659/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prasanna659/DSA/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/prasanna659/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/prasanna659/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasanna659/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/prasanna659/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -91,6 +92,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/prasanna659/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/prasanna659/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/prasanna659/DSA/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/prasanna659/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/prasanna659/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prasanna659/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prasanna659/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -168,6 +170,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/prasanna659/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/prasanna659/DSA/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/prasanna659/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasanna659/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/prasanna659/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/prasanna659/DSA/tree/master/1331-rank-transform-of-an-array) |
