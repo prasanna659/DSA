@@ -58,6 +58,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/prasanna659/DSA/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/prasanna659/DSA/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/prasanna659/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prasanna659/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/prasanna659/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/prasanna659/DSA/tree/master/0268-missing-number) |
@@ -98,6 +99,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/prasanna659/DSA/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/prasanna659/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/prasanna659/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prasanna659/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/prasanna659/DSA/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prasanna659/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -183,6 +185,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/prasanna659/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prasanna659/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/prasanna659/DSA/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prasanna659/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -240,6 +243,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/prasanna659/DSA/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/prasanna659/DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prasanna659/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prasanna659/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -324,4 +328,12 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/prasanna659/DSA/tree/master/2029-stone-game-ix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prasanna659/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prasanna659/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
