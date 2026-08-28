@@ -33,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/prasanna659/DSA/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/prasanna659/DSA/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prasanna659/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/prasanna659/DSA/tree/master/1768-merge-strings-alternately) |
@@ -151,6 +152,7 @@
 | [0027-remove-element](https://github.com/prasanna659/DSA/tree/master/0027-remove-element) |
 | [0142-linked-list-cycle-ii](https://github.com/prasanna659/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/prasanna659/DSA/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/prasanna659/DSA/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/prasanna659/DSA/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/prasanna659/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/prasanna659/DSA/tree/master/1768-merge-strings-alternately) |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prasanna659/DSA/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/prasanna659/DSA/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/prasanna659/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/prasanna659/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/prasanna659/DSA/tree/master/1406-stone-game-iii) |
