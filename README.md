@@ -304,6 +304,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/prasanna659/DSA/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/prasanna659/DSA/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -332,6 +333,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prasanna659/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/prasanna659/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/prasanna659/DSA/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
