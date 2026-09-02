@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prasanna659/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/prasanna659/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/prasanna659/DSA/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/prasanna659/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prasanna659/DSA/tree/master/0217-contains-duplicate) |
@@ -156,6 +157,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/prasanna659/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prasanna659/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/prasanna659/DSA/tree/master/0027-remove-element) |
 | [0142-linked-list-cycle-ii](https://github.com/prasanna659/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -209,6 +211,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/prasanna659/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/prasanna659/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prasanna659/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/prasanna659/DSA/tree/master/0268-missing-number) |
