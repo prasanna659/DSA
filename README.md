@@ -70,6 +70,7 @@
 | [0001-two-sum](https://github.com/prasanna659/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/prasanna659/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/prasanna659/DSA/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/prasanna659/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/prasanna659/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prasanna659/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prasanna659/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -171,6 +172,7 @@
 | [0015-3sum](https://github.com/prasanna659/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prasanna659/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/prasanna659/DSA/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/prasanna659/DSA/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/prasanna659/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/prasanna659/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/prasanna659/DSA/tree/master/0392-is-subsequence) |
@@ -224,6 +226,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prasanna659/DSA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/prasanna659/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/prasanna659/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prasanna659/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/prasanna659/DSA/tree/master/0268-missing-number) |
@@ -391,4 +394,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prasanna659/DSA/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/prasanna659/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/prasanna659/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
