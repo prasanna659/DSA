@@ -361,6 +361,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prasanna659/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/prasanna659/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/prasanna659/DSA/tree/master/0206-reverse-linked-list) |
+| [0707-design-linked-list](https://github.com/prasanna659/DSA/tree/master/0707-design-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/prasanna659/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -402,4 +403,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/prasanna659/DSA/tree/master/0075-sort-colors) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/prasanna659/DSA/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
