@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prasanna659/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/prasanna659/DSA/tree/master/0006-zigzag-conversion) |
 | [0115-distinct-subsequences](https://github.com/prasanna659/DSA/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/prasanna659/DSA/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/prasanna659/DSA/tree/master/0844-backspace-string-compare) |
