@@ -59,6 +59,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/prasanna659/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/prasanna659/DSA/tree/master/0238-product-of-array-except-self) |
 | [1872-stone-game-viii](https://github.com/prasanna659/DSA/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prasanna659/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -73,6 +74,7 @@
 | [0027-remove-element](https://github.com/prasanna659/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/prasanna659/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/prasanna659/DSA/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/prasanna659/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/prasanna659/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prasanna659/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/prasanna659/DSA/tree/master/0238-product-of-array-except-self) |
@@ -149,6 +151,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/prasanna659/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/prasanna659/DSA/tree/master/0268-missing-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prasanna659/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prasanna659/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -378,6 +381,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prasanna659/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/prasanna659/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/prasanna659/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/prasanna659/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prasanna659/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
