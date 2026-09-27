@@ -1,36 +1,32 @@
 class Solution {
     public int minSubArrayLen(int target, int[] nums) {
-    //     int n=nums.length;
-    //     Hahset<Integer> seen= new HashSet<>();
-    //     int minlength=0;
-    //     for(int i=0;i<n;i++){
-    //         complement=nums[i]-target;
-    //         if(seen.contains(complement){
-    //              return nums[i];
+    //  int left=0;
+    //  int minlength=Integer.Max_VALUE;
+    //     for(right=0;right<n;right++){
+    //         curretsum+=nums[right];
+    //         while(currentsum>target){
+    //            int minlength=Math.min(minlength,right-left+1);
     //         }
-    //         seen.add(nums[i]);
+    //         if(minlength==Integer.MAX_VALUE){
+    //             return 0;
+    //         }
+    //         return minlength;
     //     }
-    // }
-    int n=nums.length;
-    int left=0;
-    int sum=0;
-    int minlength=nums.length+1;
-    for(int right=0;right<n;right++){
-           sum+=nums[right];
-           while(sum>=target){
-            int curlen=right-left+1;
-              if(curlen<minlength){
-                minlength=curlen;
-              }
-              sum-=nums[left];
+             int left = 0;
+        int currentSum = 0;
+        int minLen = Integer.MAX_VALUE;
 
-              left++;
-           }
-    }
-         if (minlength > nums.length) {
-            return 0;
-        } else {
-            return minlength;
+        for (int right = 0; right < nums.length; right++) {
+            currentSum += nums[right];
+
+            while (currentSum >= target) {
+                minLen = Math.min(minLen, right - left + 1);
+                currentSum -= nums[left];
+                left++;
+            }
         }
+
+        return minLen == Integer.MAX_VALUE ? 0 : minLen;
+
     }
 }
