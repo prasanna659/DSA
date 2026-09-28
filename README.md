@@ -64,6 +64,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/prasanna659/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/prasanna659/DSA/tree/master/0238-product-of-array-except-self) |
+| [0713-subarray-product-less-than-k](https://github.com/prasanna659/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1872-stone-game-viii](https://github.com/prasanna659/DSA/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prasanna659/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prasanna659/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -88,6 +89,7 @@
 | [0486-predict-the-winner](https://github.com/prasanna659/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasanna659/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/prasanna659/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/prasanna659/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/prasanna659/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/prasanna659/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/prasanna659/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -160,6 +162,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/prasanna659/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/prasanna659/DSA/tree/master/0268-missing-number) |
+| [0713-subarray-product-less-than-k](https://github.com/prasanna659/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prasanna659/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prasanna659/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/prasanna659/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -394,6 +397,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/prasanna659/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/prasanna659/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/prasanna659/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/prasanna659/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/prasanna659/DSA/tree/master/0904-fruit-into-baskets) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prasanna659/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prasanna659/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
