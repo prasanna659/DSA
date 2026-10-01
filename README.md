@@ -193,6 +193,7 @@
 | [0392-is-subsequence](https://github.com/prasanna659/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/prasanna659/DSA/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/prasanna659/DSA/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/prasanna659/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/prasanna659/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/prasanna659/DSA/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/prasanna659/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -379,6 +380,7 @@
 | [0206-reverse-linked-list](https://github.com/prasanna659/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/prasanna659/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/prasanna659/DSA/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/prasanna659/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/prasanna659/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Floyd's Cycle Finding Algorithm
 |  |
