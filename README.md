@@ -191,6 +191,7 @@
 | [0075-sort-colors](https://github.com/prasanna659/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/prasanna659/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prasanna659/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/prasanna659/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/prasanna659/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/prasanna659/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/prasanna659/DSA/tree/master/0567-permutation-in-string) |
@@ -318,6 +319,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/prasanna659/DSA/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/prasanna659/DSA/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prasanna659/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -352,6 +354,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/prasanna659/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/prasanna659/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/prasanna659/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/prasanna659/DSA/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/prasanna659/DSA/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/prasanna659/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
@@ -386,6 +389,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/prasanna659/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/prasanna659/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/prasanna659/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/prasanna659/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/prasanna659/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/prasanna659/DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/prasanna659/DSA/tree/master/0876-middle-of-the-linked-list) |
