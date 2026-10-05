@@ -75,6 +75,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/prasanna659/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/prasanna659/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/prasanna659/DSA/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/prasanna659/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/prasanna659/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/prasanna659/DSA/tree/master/0169-majority-element) |
@@ -186,6 +187,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prasanna659/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/prasanna659/DSA/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prasanna659/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/prasanna659/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/prasanna659/DSA/tree/master/0075-sort-colors) |
@@ -246,6 +248,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prasanna659/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/prasanna659/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/prasanna659/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/prasanna659/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prasanna659/DSA/tree/master/0217-contains-duplicate) |
