@@ -77,6 +77,7 @@
 | [0015-3sum](https://github.com/prasanna659/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/prasanna659/DSA/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/prasanna659/DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/prasanna659/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/prasanna659/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/prasanna659/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/prasanna659/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -190,6 +191,7 @@
 | [0016-3sum-closest](https://github.com/prasanna659/DSA/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prasanna659/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/prasanna659/DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/prasanna659/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/prasanna659/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/prasanna659/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prasanna659/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -208,6 +210,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prasanna659/DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/prasanna659/DSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/prasanna659/DSA/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/prasanna659/DSA/tree/master/0392-is-subsequence) |
@@ -322,12 +325,14 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prasanna659/DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/prasanna659/DSA/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/prasanna659/DSA/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prasanna659/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prasanna659/DSA/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prasanna659/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
