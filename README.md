@@ -37,6 +37,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prasanna659/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/prasanna659/DSA/tree/master/0006-zigzag-conversion) |
+| [0049-group-anagrams](https://github.com/prasanna659/DSA/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/prasanna659/DSA/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/prasanna659/DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/prasanna659/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -78,6 +79,7 @@
 | [0016-3sum-closest](https://github.com/prasanna659/DSA/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/prasanna659/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/prasanna659/DSA/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/prasanna659/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/prasanna659/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/prasanna659/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/prasanna659/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -134,6 +136,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/prasanna659/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prasanna659/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/prasanna659/DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/prasanna659/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prasanna659/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/prasanna659/DSA/tree/master/0169-majority-element) |
@@ -252,6 +255,7 @@
 | ------- |
 | [0015-3sum](https://github.com/prasanna659/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/prasanna659/DSA/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/prasanna659/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/prasanna659/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/prasanna659/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prasanna659/DSA/tree/master/0217-contains-duplicate) |
