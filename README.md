@@ -82,6 +82,7 @@
 | [0042-trapping-rain-water](https://github.com/prasanna659/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/prasanna659/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/prasanna659/DSA/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/prasanna659/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/prasanna659/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/prasanna659/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/prasanna659/DSA/tree/master/0217-contains-duplicate) |
@@ -167,6 +168,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/prasanna659/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/prasanna659/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/prasanna659/DSA/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/prasanna659/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -199,6 +201,7 @@
 | [0075-sort-colors](https://github.com/prasanna659/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/prasanna659/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prasanna659/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/prasanna659/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/prasanna659/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/prasanna659/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/prasanna659/DSA/tree/master/0392-is-subsequence) |
