@@ -95,6 +95,7 @@
 | [0486-predict-the-winner](https://github.com/prasanna659/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasanna659/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/prasanna659/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/prasanna659/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/prasanna659/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/prasanna659/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/prasanna659/DSA/tree/master/0904-fruit-into-baskets) |
@@ -171,6 +172,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prasanna659/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/prasanna659/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/prasanna659/DSA/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/prasanna659/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/prasanna659/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prasanna659/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prasanna659/DSA/tree/master/3312-sorted-gcd-pair-queries) |
