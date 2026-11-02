@@ -98,6 +98,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/prasanna659/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/prasanna659/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/prasanna659/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/prasanna659/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/prasanna659/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/prasanna659/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/prasanna659/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -176,6 +177,7 @@
 | [0268-missing-number](https://github.com/prasanna659/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/prasanna659/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/prasanna659/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/prasanna659/DSA/tree/master/0875-koko-eating-bananas) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prasanna659/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prasanna659/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/prasanna659/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
