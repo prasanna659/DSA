@@ -84,6 +84,7 @@
 | [0049-group-anagrams](https://github.com/prasanna659/DSA/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/prasanna659/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/prasanna659/DSA/tree/master/0075-sort-colors) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prasanna659/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prasanna659/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/prasanna659/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/prasanna659/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -227,6 +228,7 @@
 | [0042-trapping-rain-water](https://github.com/prasanna659/DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/prasanna659/DSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/prasanna659/DSA/tree/master/0115-distinct-subsequences) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prasanna659/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/prasanna659/DSA/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/prasanna659/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/prasanna659/DSA/tree/master/0877-stone-game) |
@@ -239,6 +241,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prasanna659/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prasanna659/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/prasanna659/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/prasanna659/DSA/tree/master/1927-sum-game) |
