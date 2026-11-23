@@ -41,6 +41,7 @@
 | [0006-zigzag-conversion](https://github.com/prasanna659/DSA/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/prasanna659/DSA/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/prasanna659/DSA/tree/master/0115-distinct-subsequences) |
+| [0389-find-the-difference](https://github.com/prasanna659/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/prasanna659/DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/prasanna659/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/prasanna659/DSA/tree/master/0567-permutation-in-string) |
@@ -153,6 +154,7 @@
 | [0217-contains-duplicate](https://github.com/prasanna659/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prasanna659/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/prasanna659/DSA/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/prasanna659/DSA/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/prasanna659/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prasanna659/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prasanna659/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -261,6 +263,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/prasanna659/DSA/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/prasanna659/DSA/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/prasanna659/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prasanna659/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/prasanna659/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -278,6 +281,7 @@
 | [0169-majority-element](https://github.com/prasanna659/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prasanna659/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/prasanna659/DSA/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/prasanna659/DSA/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prasanna659/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasanna659/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/prasanna659/DSA/tree/master/0977-squares-of-a-sorted-array) |
