@@ -100,6 +100,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/prasanna659/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prasanna659/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/prasanna659/DSA/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/prasanna659/DSA/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasanna659/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/prasanna659/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/prasanna659/DSA/tree/master/0704-binary-search) |
@@ -238,6 +239,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prasanna659/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/prasanna659/DSA/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/prasanna659/DSA/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/prasanna659/DSA/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/prasanna659/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/prasanna659/DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/prasanna659/DSA/tree/master/1563-stone-game-v) |
@@ -440,6 +442,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/prasanna659/DSA/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/prasanna659/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
@@ -496,4 +499,12 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prasanna659/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/prasanna659/DSA/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/prasanna659/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
